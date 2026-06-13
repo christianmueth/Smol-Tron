@@ -1,3 +1,4 @@
 # Smol-Tron
-![20210819_103850](https://user-images.githubusercontent.com/59476460/157579346-e0be010c-72e3-4591-a052-ceb0248f3bfa.jpg)
+<img width="972" height="1598" alt="Screenshot_20260612_224544_Gallery" src="https://github.com/user-attachments/assets/02705a60-02f8-4387-b50e-f19b11c49ba0" />
+
 A custom bipedal robot, to move via 16 servo motors. (CAD and code is currently a work in progress)
